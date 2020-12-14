@@ -1,0 +1,23 @@
+{
+  "name": "bellatsou",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "hello.js",
+  "scripts": {
+    "test": "helloworld",
+    "start":"node hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BellaTsou/new_github_dir.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "bellatsou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BellaTsou/new_github_dir/issues"
+  },
+  "homepage": "https://github.com/BellaTsou/new_github_dir#readme"
+}
