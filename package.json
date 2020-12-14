@@ -4,8 +4,8 @@
   "description": "practice",
   "main": "hello.js",
   "scripts": {
-    "test": "helloworld",
-    "start":"node hello.js"
+    "test": "echo \"Error: no test sprcified\" && exit 1",
+    "start": "node hello.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/BellaTsou/new_github_dir/issues"
   },
-  "homepage": "https://github.com/BellaTsou/new_github_dir#readme"
+  "homepage": "https://github.com/BellaTsou/new_github_dir#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
